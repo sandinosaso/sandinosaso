@@ -13,14 +13,16 @@ Hi, I'm Sandino a Full Stack Developer 🚀 from Uruguay living in Chile.
 
 #### Where to reach me:
 
-<p align="center">
+<code>
   <a href="https://twitter.com/sandinosaso">
     <img align="left" alt="Sandino | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
+</code>
+<code>
   <a href="https://www.linkedin.com/in/sandinosaso/">
     <img align="left" alt="Sandino | Linkedind" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-</p>
+</code>
 
 #### Languages and Tools:
 
