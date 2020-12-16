@@ -23,7 +23,6 @@ Hi, I'm Sandino a Full Stack Developer 🚀 from Uruguay living in Chile.
 </p>
 
 <br />
-<br />
 
 #### Languages and Tools:
 
