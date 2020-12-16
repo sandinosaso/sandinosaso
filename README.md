@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am Sandino (sandinosaso) - Full Stack Web Developer
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sandinosaso&theme=flat" alt="sandinosaso" />
 
 <br />
 
-Hi, I'm Sandino Full Stack 🚀 from Uruguay living in Chile.
+Hi, I'm Sandino a Full Stack Developer 🚀 from Uruguay living in Chile.
 
 **About me:**
 
