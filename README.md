@@ -8,7 +8,7 @@ Hi, I'm Sandino a Full Stack Developer 🚀 from Uruguay living in Chile.
 
 #### About me:
 
-- 💻 I’m currently working on ...
+- 💻 I’m currently working with React, Typescript, Redux, Storybook, Kubernetes, Webpack, Rollout, Micro Frontends
 - 💬 Ask me about anything, I am happy to help
 
 #### Where to reach me:
