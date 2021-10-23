@@ -8,7 +8,7 @@ Hi, I'm Sandino a Full Stack Developer 🚀 I have worked for different companie
 
 #### About me:
 
-- 💻 I’m currently working with React, Typescript, Redux, Storybook, Kubernetes, Webpack, Rollout, Micro Frontends
+- 💻 I’m currently working with React, Typescript, Redux, Storybook, Kubernetes, Webpack, Rollup, Micro Frontends
 - 💬 Ask me about anything, I am happy to help
 
 #### Where to reach me:
