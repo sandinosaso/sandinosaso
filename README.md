@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Sandino (sandinosaso) - Full Stack Web Developer - 🇺🇾 🇨🇱 🇩🇪
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sandinosaso&theme=flat" alt="sandinosaso" />
+<p align="center">
 
 <br />
 
@@ -14,12 +14,8 @@ Hi, I'm Sandino a Full Stack Developer 🚀 I have worked for different companie
 #### Where to reach me:
 
 <p>
-  <a href="https://twitter.com/sandinosaso">
-    <img align="left" alt="Sandino | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/sandinosaso/">
-    <img align="left" alt="Sandino | Linkedind" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
+  <a href="https://twitter.com/sandinosaso">Twitter</a> | 
+  <a href="https://www.linkedin.com/in/sandinosaso/">Linkedin</a>
 </p>
 
 <br />
