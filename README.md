@@ -49,5 +49,5 @@ Hi, I'm Sandino a Full Stack Developer 🚀 I have worked for different companie
 
 #### 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sandinosaso&show_icons=true" alt="sandinosaso" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandinosaso&show_icons=true&locale=en&layout=compact" alt="sandinosaso" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sandinosaso&show_icons=true&include_all_commits=true" alt="sandinosaso" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandinosaso&show_icons=true&locale=en&include_all_commits=true" alt="sandinosaso" />
